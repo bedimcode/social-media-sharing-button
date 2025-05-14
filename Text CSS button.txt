@@ -1,0 +1,16 @@
+========== CARD ==========
+.card__name
+Mildrew Swin
+
+.card__profession
+Visual Designer
+
+========== CARD INFO ==========
+.button__content span
+SHARE
+
+button__social a
+https://github.com/
+https://www.linkedin.com/
+https://www.instagram.com/
+https://www.facebook.com/
